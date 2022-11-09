@@ -1,2 +1,2 @@
-# projeto-frutas
- Projeto criado no curso da alura
+# arquitetura-css
+curso de arquitetura da Alura. 
